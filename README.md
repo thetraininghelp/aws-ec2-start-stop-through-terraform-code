@@ -1,10 +1,8 @@
-# aws-ec2-start-stop-through-terraform-code
+# AWS-ec2-start-stop-through-terraform-code
 
 - AWS-EC2-Power-on-off-through-terraform-code
 
 ##
-<img align="center" src="ami-details.png">
-
 <details><summary># Terraform will perform the following actions:</summary>
 <p>
 
